@@ -1,0 +1,8 @@
+venv/
+resultados_json/
+TCCs/
+teste1coleta/
+prints-processo
+extracao_em_json.ipynb
+observacoes.txt
+.env
